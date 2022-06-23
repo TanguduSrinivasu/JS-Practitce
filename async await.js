@@ -23,4 +23,6 @@ async function sequentialStart()
     console.log(world);
 }
 
-sequentialStart()
+sequentialStart()  
+
+//output can be viewed in console of any browser
